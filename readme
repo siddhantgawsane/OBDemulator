@@ -1,0 +1,32 @@
+
+Engine Control Unit
+
+Temprature 
+0 - 200
+
+
+
+load_pct 
+0 - 120
+
+RPM 	- 0 8  
+0 - 10000	
+
+vss - Vehicle Speed Sensor 0- 200 
+0-158
+
+IAT - Intake Air Temprature
+13 -48
+
+maf			- Mass Air Flow Sensor
+0 -140
+
+
+throttlepos
+10-78
+
+
+
+
+
+
